@@ -32,12 +32,9 @@
 
 <style lang="css">
 	div.post {
-		width: 7.5rem;
-		margin: 0 auto;
-		padding: 0.4rem 0.8rem;
-		color: #666;
-		line-height: 200%;
-		text-align: justify;
+    padding: 0.4rem 0.8rem;
+    color: #666;
+    line-height: 200%;
 	}
 	
 	div.post>h3.post-title {

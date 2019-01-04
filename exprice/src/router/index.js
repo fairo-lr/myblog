@@ -34,7 +34,7 @@ export default new Router({
 			component: contact
 		},
 		{
-			path: '/post/:filename',
+			path: '/post/:filename', 
 			name: 'post',
 			component: page
 		},
